@@ -1,3 +1,5 @@
+> **Merged into [charity-compliance](https://github.com/jasveerai88/charity-compliance)** — this tool now ships as the `receipt-gate` module of the charity-compliance suite (v1.0.0, also on PyPI). New work happens there; this repo stays as the original standalone release.
+
 # receipt-gate
 
 **Check a Canadian charity's donations spreadsheet against the CRA's official receipt rules — before the receipts go out.**
